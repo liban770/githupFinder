@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Profile Finder",
+  "description": "Search, analyze, and bookmark public GitHub profiles and repositories with local PostgreSQL caching, search telemetry, and rate-limit resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
